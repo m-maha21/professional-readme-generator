@@ -9,7 +9,7 @@ ${data.description}
 
 ## Table of Contents 
 ${data.tableofcontents}
-- [Introduction](#description)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -41,7 +41,7 @@ ${data.tests}
 ${data.questions}
 For any questions or feedback, please feel free to reach out: 
 - GitHub: [${data.githubUsername}](https://github.com/${data.githubUsername})
-- E-mail: ${data.email}
+- E-mail: [${data.email}]
 
 ## Badges 
 ${data.badges}
