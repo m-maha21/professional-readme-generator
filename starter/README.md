@@ -13,7 +13,7 @@ undefined
 - [License](#license)
 - [Contribution](#contribution)
 - [Credits](#credits)
-- [Tests] (#tests)
+- [Tests](#tests)
 - [Questions](#questions)
 - [Badges](#badges)
 
