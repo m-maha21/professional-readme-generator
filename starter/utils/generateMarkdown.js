@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `
   
-# ${data.title}
+  # ${data.title}
 
 ## Description 
 ${data.description}
@@ -15,7 +15,7 @@ ${data.tableofcontents}
 - [License](#license)
 - [Contribution](#contribution)
 - [Credits](#credits)
-- [Tests] (#tests)
+- [Tests](#tests)
 - [Questions](#questions)
 - [Badges](#badges)
 
@@ -26,7 +26,6 @@ ${data.installation}
 ${data.usage}
 
 ## License 
-${data.license}
 This project is licensed under the ${data.license} license. 
 
 ## Contribution 
