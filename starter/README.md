@@ -1,12 +1,12 @@
 
   
-  # Fitness Tracker App
+  # README Generator App
+  ![Github License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
 ## Description 
-My aim is to help people to stay active and healthy.
+This project has been created to help users write high-quality README files for GitHub projects. Through building this project, I gained experience in working with Node.js and the inquirer package.
 
 ## Table of Contents 
-undefined
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,32 +15,31 @@ undefined
 - [Credits](#credits)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Badges](#badges)
+- [Tools](#tools)
 
 ## Installation 
-There is no need to install, please click on the following link
+You can install dependencies using npm and the following command: npm install
 
 ## Usage 
-Please watch the following video to understand how to navigate.
+It's very use to use. You can run the application by using the command 'node index.js' and then just follow the prompts. Lastly, review the generated README file and make adjustments as needed.
 
 ## License 
-This project is licensed under the MIT  license. 
+This project is licensed under the MIT license. 
 
 ## Contribution 
-Please contact me via e-mail on maha21@outlook.com
+Other developers can simply send me an e-mail or contact me on GitHub.
 
 ## Credits 
-Independent project.
+N/A - Independent project
 
 ## Tests 
-Ask users questions
+Ask questions to the user and use their answers to create the README file.
 
 ## Questions 
-undefined
 For any questions or feedback, please feel free to reach out: 
-- GitHub: [undefined](https://github.com/undefined)
-- E-mail: [undefined]
+- GitHub: [m-maha21](https://github.com/m-maha21)
+- E-mail: [mm123@live.co.uk]
 
-## Badges 
-JavaScript
+## Tools
+JavaScript, JSON, NPM, Inquirer Package, GitHub
 

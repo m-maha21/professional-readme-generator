@@ -5,7 +5,7 @@
 My motivation for building this project was to create a tool that simplifies the process of generating high-quality README files for GitHub projects. As a developer, I understand the importance of having a well-structured README to provide users and potential contributors with essential information about the project.
 Through building this project, I gained experience in working with Node.js, the inquirer package for user input, and generating Markdown content dynamically. I learned how to structure a command-line application, handle user input, and generate formatted text output. Additionally, I developed a deeper understanding of the importance of project documentation and the value of automation in improving developer productivity.
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 - [Description](#description)
 - [Installation](#installation)
@@ -13,7 +13,7 @@ Through building this project, I gained experience in working with Node.js, the 
 - [License](#license)
 - [Contribution](#contribution)
 - [Credits](#credits)
-- [Badges](#badges)
+- [Tools](#tools)
 
 ## Installation
 
@@ -39,9 +39,10 @@ N/A
 
 ## Credits
 
-Mahamuda
+Name: Mahamuda
+GitHub: m-maha21
 
-## Badges
+## Tools
 
 The tools that I have used in project are: JavaScript, JSON, GitHub, Inquirer package
 

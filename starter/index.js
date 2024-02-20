@@ -20,12 +20,6 @@ const questions = [
 
 {
     type: "input",
-    name: "table of contents",
-    message: "Please add a table of contents to make it easier for users to move around the project with ease.",
-},
-
-{
-    type: "input",
     name: "installation",
     message: "How can I install and run the project?",
 },
@@ -33,13 +27,14 @@ const questions = [
 {
     type: "input",
     name: "usage",
-    message: "Please provide instructions and examples so users/contributors can use the project",
+    message: "Please provide instructions and examples so users can use the project",
 },
 
 {
-    type: "input",
+    type: "checkbox",
     name: "license",
-    message: "What license have you used for this project?",
+    message: "Please select a license that you would like to use for this project.",
+    choices: ["MIT", "Apache 2.0", "GNU General Public v3.0", "BSD2", "BSD3", "Boost Software 1.0", "Mozilla Public 2.0", "None"],
 },
 
 {
@@ -57,18 +52,24 @@ const questions = [
 {
     type: "input",
     name: "tests",
-    message: "Go to the extra mile and write tests for your application then provide code examples and how to run them.",
+    message: "Write tests for your application then provide code examples and how to run them.",
 },
  
 {
     type: "input",
-    name: "questions, email, GitHub",
-    message: "Give users the chance to ask you any questions they may have about your project.",
+    name: "GitHub",
+    message: "What is your GitHub Username?",
 },
 
 {
     type: "input",
-    name: "badges",
+    name: "email",
+    message: "What is your email address?",
+},
+
+{
+    type: "input",
+    name: "tools",
     message: "You can add tools that you have used in this section and show some simple stats about your project like the number of forks, collaborators, open issues and many more.",
 },
 
