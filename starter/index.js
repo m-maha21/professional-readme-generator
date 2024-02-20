@@ -62,7 +62,7 @@ const questions = [
  
 {
     type: "input",
-    name: "questions",
+    name: "questions, email, GitHub",
     message: "Give users the chance to ask you any questions they may have about your project.",
 },
 

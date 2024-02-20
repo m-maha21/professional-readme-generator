@@ -1,9 +1,9 @@
 
   
-  # 
+  # Fitness Tracker App
 
 ## Description 
-
+My aim is to help people to stay active and healthy.
 
 ## Table of Contents 
 undefined
@@ -18,22 +18,22 @@ undefined
 - [Badges](#badges)
 
 ## Installation 
-
+There is no need to install, please click on the following link
 
 ## Usage 
-
+Please watch the following video to understand how to navigate.
 
 ## License 
-This project is licensed under the MIT license. 
+This project is licensed under the MIT  license. 
 
 ## Contribution 
-
+Please contact me via e-mail on maha21@outlook.com
 
 ## Credits 
-mahamuda, GitHub: m-maha21https://github.com/m-maha21
+Independent project.
 
 ## Tests 
-
+Ask users questions
 
 ## Questions 
 undefined
@@ -42,5 +42,5 @@ For any questions or feedback, please feel free to reach out:
 - E-mail: [undefined]
 
 ## Badges 
-
+JavaScript
 
